@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toolbar -->
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <!-- preferenceFragment -->
+    <dimen name="preference_fragment_padding_bottom">0dp</dimen>
+    <dimen name="preference_fragment_padding_side">16dp</dimen>
+    <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
+    <!-- Defaults -->
+    <dimen name="activity_vertical_margin">6dp</dimen>
+    <bool name="isWideTablet">false</bool>
+    <!-- Drawer -->
+    <dimen name="drawer_width">304dp</dimen>
+</resources>

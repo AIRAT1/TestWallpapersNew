@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- preferenceFragment -->
+    <dimen name="preference_fragment_padding_side">64dp</dimen>
+    <!-- Defaults -->
+    <bool name="isWideTablet">false</bool>
+    <!-- Drawer -->
+    <dimen name="drawer_width">320dp</dimen>
+</resources>

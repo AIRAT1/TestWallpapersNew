@@ -2,12 +2,6 @@
 <resources>
     <string name="app_name">HD Hintergrundbilder</string>
 
-    <string name="google_play_license" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnzrlkT71QeRWUw4GUQpGc+36Ycb9fciZT1KfgIWSCD4okRWpHVC0x+7irPivRVoqkNZquwjRsCoz3PIkDn+VYbf3viHlKZTTR5gJlg9/Li0pxJ12aT5/R4TdV74W7Umgc+AXLzIH+TbGG+fF1cg1jSrJCJLXEFhXRi3OIgJmZZhYAU08HQPeBbOTtIKTv90wf+OaTLU6fGBNbcOUNGE3ckdpPN+Xo7rfd4R5Z6qQd7WUbWDW3HLC7SKb6RGmQvyneZHA+7iRO4vF+qJIETrX0wAQGXlJ9/+70CaRiIaYAy3PLRWNYiswB45F5N1fJzH3McUocKPmLuh4ZWT2RcdXFQIDAQAB</string>
-    <string name="product_id" translatable="false">de.android.ayrathairullin</string>
-    <string name="admob_banner_id" translatable="false">ca-app-pub-6708703349449969/5919114789</string>
-    <string name="admob_interstitial_id" translatable="false">ca-app-pub-6708703349449969/4946435153</string>
-    <string name="admob_app_id" translatable="false">ca-app-pub-6708703349449969~4909285440</string>
-
     <string name="settings_other_summary">Andere</string>
     <string name="settings_other">Bewerten</string>
     <string name="settings_rate_summary">Bewerten Sie die App</string>

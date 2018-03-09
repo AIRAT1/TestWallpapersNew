@@ -196,7 +196,10 @@ public class MainActivity extends AppCompatActivity implements MenuItemCallback,
         if (interstitialCount == (Config.INTERSTITIAL_INTERVAL - 1)) {
             final InterstitialAd mInterstitialAd = new InterstitialAd(this);
             mInterstitialAd.setAdUnitId(getResources().getString(de.android.R.string.admob_interstitial_id));
-            AdRequest adRequestInter = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR).build();
+            AdRequest adRequestInter = new AdRequest.Builder()
+                    .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
+                    .addTestDevice(getString(R.string.test_device_id))
+                    .build();
             mInterstitialAd.setAdListener(new AdListener() {
                 @Override
                 public void onAdLoaded() {
